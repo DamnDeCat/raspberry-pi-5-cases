@@ -26,13 +26,7 @@ If you have experience with 3D modeling and would like to help improve the desig
 
 ![Top](image/Top.jpeg)
 
-Some openings on the top cover do not perfectly match the corresponding interfaces.
-
-The case is usable, but some of the openings have slight positional or dimensional deviations, which affects the overall appearance.
-
-If you have the ability to modify 3D models, feel free to help optimize the position and dimensions of these openings for a better fit.
-
-### HDMI Interface
+### Type-C and HDMI Interface
 
 ![HDMI](image/Type%20HDMI.jpeg)
 
